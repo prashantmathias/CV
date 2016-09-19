@@ -1,6 +1,6 @@
 ## Prashant Mathias
 
-I'am an international, highly­ versatile Audio Engineer turned Junior Developer. After several years of trying to learn programming my self while working in the music and film industry I decided to join a highly intensive web development course called Remote at Makers Academy. This has helped me improve my programming skills by leaps and bounds and I now look forward to entering into the exciting world of web development.
+I'm a highly­ versatile Audio Engineer turned Junior Developer. After several years of trying to learn programming my self while working in the music and film industry in Los Angeles and Bangalore, I decided to join a highly intensive web development course called Remote at Makers Academy. This has helped me improve my programming skills by leaps and bounds and I now look forward to entering into the exciting world of web development.
 
 ## Skills
 
@@ -48,10 +48,7 @@ Head Audio Engineer at one of Bangalore’s most distinguished audio recording a
 
 #### Assistant Audio Engineer - Cazador Recording Studios, Hollywood  (Jan 2011 to May 2011)
 
-Assistant Audio Engineer at Cazador Studios, Hollywood for Producer Jimmy Hunter [credits include: Cher, The Doors’ Ray Manzarek, The Right Moves (Tom Cruise, 1983), The Lonely Guy (1984)].
+Assistant Audio Engineer at Cazador Studios, Hollywood for Producer Jimmy Hunter, credits include: Cher, The Doors’ Ray Manzarek, The Right Moves (Tom Cruise, 1983), The Lonely Guy (1984).
 
-## Contact
-
-- Email: mathiasaudio@gmail.com
-- Phone: +44 (0) 7498 134 505
-- Github: prashantmathias
+#### Founder, composer, producer, guitarist ­- Polarization (Nov 2010 to 2013)
+Founder, composer, bandleader and 8­ string guitarist of the progressive rock outfit Polarization, signed to Mediaskare Records, Los Angeles.
