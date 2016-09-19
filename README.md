@@ -17,10 +17,7 @@ Project | Description | Technologies Used | Testing Technologies
 --- | --- | --- | ---
 [Make It Stop!](https://github.com/MakeItStop/task-based-alarm) | A cross-platform native mobile alarm clock app built for those who find it too hard to wake up in the morning | NativeScript, Angular 2, Typescript, Javascript, CSS, Xcode | Jasmine, Karma
 [Instaclone](https://github.com/prashantmathias/instagram-challenge) | A simple Instagram clone written over a weekend | Ruby, Rails, Postgres /w ActiveRecord, HTML5(HAML), CSS3 | RSpec, Capybara
-[MakersBnB](https://github.com/prashantmathias/yelp_clone) | A simple clone of air BnB | Ruby, Rails, Postgres /w ActiveRecord, OAuth, Devise, HTML5(HAML), SASS | RSpec, Capybara
 [Chitter](https://github.com/prashantmathias/chitter-challenge) | Another weekend challenge, this time to clone Twitter | Ruby, Sinatra, Postgres /w DataMapper, HTML5(HAML), CSS3 | RSpec, Capybara
-
-
 
 ## Education
 
@@ -55,6 +52,6 @@ Assistant Audio Engineer at Cazador Studios, Hollywood for Producer Jimmy Hunter
 
 ## Contact
 
-Email: mathiasaudio@gmail.com
-Phone: +44 (0) 7498 134 505
-Github: prashantmathias
+- Email: mathiasaudio@gmail.com
+- Phone: +44 (0) 7498 134 505
+- Github: prashantmathias
