@@ -15,19 +15,21 @@ Committed to excellence, it has been my personal goal to fully grasp the vision 
 
 ### <a name="projects">Some of my notable projects:</a>
 Project/code | Description | Technologies Used | Testing Technologies | Demo
---- | --- | --- | ---
+--- | --- | --- | --- | ---
 [Make It Stop!](https://github.com/MakeItStop/task-based-alarm) | A cross-platform native mobile alarm clock app built for those who hit the snooze button too often | NativeScript, Angular 2, Typescript, Javascript, CSS, Xcode | Jasmine, Karma | [View Demo](https://www.youtube.com/watch?v=WGuyOzGttv0)
 [Instaclone](https://github.com/prashantmathias/instagram-challenge) | A simple Instagram clone  | Ruby, Rails, Postgres /w ActiveRecord, HTML5 (HAML), CSS3, Bootstrap, aws | RSpec, Capybara | [View Demo](https://tranquil-savannah-62161.herokuapp.com/)
 [Chitter](https://github.com/prashantmathias/chitter-challenge) | A weekend challenge to clone Twitter | Ruby, Sinatra, Postgres /w DataMapper, HTML5, CSS3 | RSpec, Capybara | [View Code](https://github.com/prashantmathias/chitter-challenge)
 
 ## Strengths
 
-* #### Teamwork
+#### Teamwork
 Having worked in big teams on a multitude of projects as an Audio Engineer and at Makers Academy, I have learned to keep my ego at the
 door and my naturally patient and easy-going nature allows me to approach every professional situation with an open mind.
-* #### Problem-solving
+
+#### Problem-solving
 For our final project at Makers Academy, my team and I decided to create a mobile app for both iOS and Android, to achieve which, we decided to learn NativeScript from scratch. Further, the version of NativeScript we used was newly released with not much documentation, forcing us to solve many problems without support. In the end, we managed to overcome all the challenges one at a time and see the app through to our satisfaction.
-* #### Passion for growth
+
+#### Passion for growth
 I enjoy the challenge of using a new method or tool that requires me to leave my comfort zone. As an Audio Engineer I've had to understand and apply new technologies on tight turnaround projects without compromising the quality of deliveries, which was demanding and exciting.
 
 
