@@ -18,7 +18,7 @@ Project/code | Description | Technologies Used | Testing Technologies | Demo
 --- | --- | --- | --- | ---
 [Make It Stop!](https://github.com/MakeItStop/task-based-alarm) | A cross-platform native mobile alarm clock app built for those who hit the snooze button too often | NativeScript, Angular 2, Typescript, Javascript, CSS, Xcode | Jasmine, Karma | [View Demo](https://www.youtube.com/watch?v=WGuyOzGttv0)
 [Instaclone](https://github.com/prashantmathias/instagram-challenge) | A simple Instagram clone  | Ruby, Rails, Postgres /w ActiveRecord, HTML5 (HAML), CSS3, Bootstrap, aws | RSpec, Capybara | [View Demo](https://tranquil-savannah-62161.herokuapp.com/)
-[Chitter](https://github.com/prashantmathias/chitter-challenge) | A weekend challenge to clone Twitter | Ruby, Sinatra, Postgres /w DataMapper, HTML5, CSS3 | RSpec, Capybara | [View Code](https://github.com/prashantmathias/chitter-challenge)
+[Chitter](https://github.com/prashantmathias/chitter-challenge) | A weekend challenge to clone Twitter | Ruby, Sinatra, Postgres /w DataMapper, HTML5 | RSpec, Capybara | [View Code](https://github.com/prashantmathias/chitter-challenge)
 
 ## Strengths
 
